@@ -1,0 +1,60 @@
+{
+  "interior": [
+    {
+      "name": "New Bathroom",
+      "type": "Interior",
+      "permit": 0,
+      "assets": "/images/interior1.jpg"
+    },
+    {
+      "name": "New laundry room",
+      "type": "Interior",
+      "permit": 0,
+      "assets": "/images/interior2.jpg"
+    },
+    {
+      "name": "Bathroom remodel",
+      "type": "Interior",
+      "permit": 1,
+      "assets": "/images/interior3.jpg"
+    },
+    {
+      "name": "Other",
+      "type": "Interior",
+      "permit": 1,
+      "assets": "/images/interior4.jpg"
+    }
+  ],
+  "exterior": [
+    {
+      "name": "Garage door replacement",
+      "type": "Exterior",
+      "permit": 0,
+      "assets": "/images/exterior1.jpg"
+    },
+    {
+      "name": "Work on exterior doors",
+      "type": "Exterior",
+      "permit": 0,
+      "assets": "/images/exterior2.jpg"
+    },
+    {
+      "name": "Re-roofing",
+      "type": "Exterior",
+      "permit": 1,
+      "assets": "/images/exterior3.jpg"
+    },
+    {
+      "name": "Building fences less than 6 feet.",
+      "type": "Exterior",
+      "permit": 3,
+      "assets": "/images/exterior4.jpg"
+    },
+    {
+      "name": "Other",
+      "type": "Exterior",
+      "permit": 2,
+      "assets": "/images/exterior5.jpg"
+    }
+  ]
+}
